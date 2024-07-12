@@ -1,7 +1,5 @@
 # VWO OpenFeature Provider JAVA
 
-[![CI](https://github.com/wingify/vwo-openfeature-provider-java/workflows/CI/badge.svg?branch=master)](https://github.com/wingify/vwo-openfeature-provider-java/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/wingify/vwo-openfeature-provider-java/branch/master/graph/badge.svg?token=)](https://codecov.io/gh/wingify/vwo-openfeature-provider-java)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Requirements
@@ -10,8 +8,6 @@ The Java SDK supports:
 
 * Open JDK - 8 onwards
 * Oracle JDK - 8 onwards
-
-Our [Build](https://github.com/wingify/vwo-openfeature-provider-java/actions) is successful on these Java Versions -
 
 ## SDK Installation
 
